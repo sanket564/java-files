@@ -1,0 +1,5 @@
+package hibernate4.demo;
+
+public class Hero {
+
+}
